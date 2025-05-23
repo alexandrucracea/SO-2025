@@ -190,7 +190,7 @@ sed '2d' fisier.txt                       # Șterge linia 2
 sed '/regex/d' fisier.txt                 # Șterge toate liniile care conțin expresia regulară
 ```
 
-## Recomandări finale
+## Recomandări
 > [!IMPORTANT]
 >  __Recomandări finale:__
 > - Comentați codul cu #
