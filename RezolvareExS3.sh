@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Se citesc doua denumiri de fisier de la tastatura, daca fisierele exista si au acelasi continut, atunci se va sterge
+# Se citesc doua denumiri de fisiere de la tastatura. Daca fisierele exista si au acelasi continut, atunci se va sterge
 # unul dintre cele doua fisiere. In acest caz se va afisa "Fisierele sunt identice, iar fisierul cu denumirea {denumireSters} a 
 # fost sters la data de {data curenta}". 
 # Daca cele doua fisiere au continut diferit, atunci se va afisa la consola iun mesaj corespunzator
